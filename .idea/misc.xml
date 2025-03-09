@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/activity_easy_questions_lets_play.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/activity_easylevel.xml" value="0.264" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/activity_hard_levels.xml" value="0.16" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/activity_lets_play.xml" value="0.176" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/activity_main.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/activity_main_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/activity_medium_level.xml" value="0.2" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/activity_splash_opening_animation.xml" value="0.176" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/activity_sploosh.xml" value="0.2" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/content_easy_level.xml" value="0.2341485507246377" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/fragment_blank.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/fragment_conceptual.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/fragment_easy.xml" value="0.2" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/fragment_extreme.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/fragment_first2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/fragment_hard.xml" value="0.24592391304347827" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/fragment_medium.xml" value="0.2" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/fragment_questions_short_e.xml" value="0.2269021739130435" />
+        <entry key="..\:/Users/Aditya/Desktop/Quiznips_project/quiznips_app/app/src/main/res/layout/slide_up.xml" value="0.12360688956433637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
